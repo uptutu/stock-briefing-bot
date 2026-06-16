@@ -8,3 +8,12 @@ data/probe_*.json
 logs/
 reports/
 .DS_Store
+
+# Claude / agent tooling
+.codegraph/
+.omc/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

@@ -1,0 +1,7 @@
+{
+  "_note": "复制为 watchlist.json 后填你的自选股。market 字段：a=A股 hk=港股 us=美股",
+  "watchlist": [
+    {"code": "600519", "name": "贵州茅台", "market": "a"},
+    {"code": "300750", "name": "宁德时代", "market": "a"}
+  ]
+}
